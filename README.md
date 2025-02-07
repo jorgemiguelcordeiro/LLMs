@@ -2,6 +2,8 @@
 # Building a Large Language Model from Scratch  
 
 This repository contains the implementation and step-by-step guide for building a Large Language Model (LLM) from scratch, following the concepts outlined in the book *Building a Large Language Model from Scratch* by Sebastian Raschka.  
+![image](https://github.com/user-attachments/assets/5454c683-b0ef-4833-868d-bb7f0440fb56)
+
 
 ## 📂 Repository Structure  
 
